@@ -1,0 +1,32 @@
+{
+  "livros": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": "1949",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "titulo": "A Moreninha",
+      "autor": "Joaquim Manuel de Macedo",
+      "ano_publicacao": "1844",
+      "genero": "Romance"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "titulo": "1984",
+      "autor": "Orwell",
+      "ano_publicacao": "1299",
+      "genero": "Ficção"
+    },
+    {
+      "id": "57ea546f-4356-4b40-a811-bb223b0f2f73",
+      "titulo": "Divergente",
+      "autor": "Pedro campos",
+      "ano_publicacao": "1990",
+      "genero": "Aventura"
+    }
+  ]
+}
